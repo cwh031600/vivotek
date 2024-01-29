@@ -1,4 +1,4 @@
-# Tplink-wr886n-v6-cloud_config-device_legality_illegal-dos-submit
+# vivotek-dos-submit
 
 ## Vulnerability type
 
@@ -10,9 +10,9 @@ vivotek
 
 ## Product
 
-tp-link-450M  
-<https://www.tp-link.com.cn/product_733.html>
-TP-Link TL-WR886N 6.0 2.2.6
+vivotek
+<[https://www.tp-link.com.cn/product_733.html](https://www.vivotek.com/fd8166a)>
+vivotek FD8166A
 
 ## Attack type
 
@@ -24,7 +24,7 @@ Denial of Service & Rebound shell
 
 ## Affected component(s)
 
-TP-Link TL-WR886N 6.0 2.2.6
+vivotek FD8166A
 
 ## Attack vector(s)
 
