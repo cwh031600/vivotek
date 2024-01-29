@@ -9,9 +9,11 @@ Hardware Link: <https://www.vivotek.com/fd8166a>
 
 ## Vul detail
 eventtask.cgi is a cgi interface that can be accessed in the device and can be accessed directly in the browser.
+
 ![1706496909343](./vivotek-FD8166A-eventtask-analysis.assets/1706496909343.png)
 
 There is a command injection function in eventtask.cgi. The attacker only needs to construct the response payload to execute the response function to achieve the effect of arbitrary execution of the command.
+
 ![1706497925920](./vivotek-FD8166A-eventtask-analysis.assets/1706497925920.png)
 
 We construct the corresponding payload to achieve rebound shell, denial of service and other attacks.
