@@ -53,6 +53,4 @@ response = tn.read_until(b"#")
 print(response.decode('utf-8'))
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-![attack](https://github.com/cwh031600/vivotek/assets/56186866/d908d933-22f0-4fc7-a3ea-5fa9766abf6e)
 [<video src="./vivotek-FD8166A-eventtask-analysis.assets/video.mp4"></video>](https://github.com/cwh031600/vivotek/assets/56186866/d908d933-22f0-4fc7-a3ea-5fa9766abf6e)https://github.com/cwh031600/vivotek/assets/56186866/d908d933-22f0-4fc7-a3ea-5fa9766abf6e
