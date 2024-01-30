@@ -11,7 +11,7 @@ vivotek
 ## Product
 
 vivotek
-<[https://www.tp-link.com.cn/product_733.html](https://www.vivotek.com/fd8166a)>
+<[https://www.vivotek.com/fd8166a](https://www.vivotek.com/fd8166a)>
 vivotek FD8166A
 
 ## Attack type
