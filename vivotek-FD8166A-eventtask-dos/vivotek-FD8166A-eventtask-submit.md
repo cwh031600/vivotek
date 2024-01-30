@@ -42,6 +42,6 @@ ljzjsc
 
 ## Reference(s)
 
-[github.com](https://github.com/cwh031600/vivotek/blob/main/vivotek-FD8166A-eventtask-dos/vivotek-FD8166A-eventtask-analysis.md)
+[https://github.com/cwh031600/vivotek/blob/main/vivotek-FD8166A-eventtask-dos/vivotek-FD8166A-eventtask-analysis.md](https://github.com/cwh031600/vivotek/blob/main/vivotek-FD8166A-eventtask-dos/vivotek-FD8166A-eventtask-analysis.md)
 
 ## Additional information
